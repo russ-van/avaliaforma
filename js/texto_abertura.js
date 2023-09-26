@@ -21,4 +21,5 @@ function inicio() {
 function inicioAvaliacao(){
     alert(`Olá avalia`)
     console.log(`Olá avalia no navegador`)
+    inicio() 
 }
